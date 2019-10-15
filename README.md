@@ -49,6 +49,8 @@ In order to keep the solution small, I mostly only accounted for the success cas
 - Real persistance, something that has quick lookup by key so that the event collections are returned quickly.
 - A projector component that would create a view of the current user states, fed from a stream of events from a message bus. Replaying events on each get will begin to under perform quickly.
 
+---
+
 ## Create React App Instructions:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
