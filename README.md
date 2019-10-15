@@ -5,9 +5,9 @@ By [Anthony Zavala](https://www.linkedin.com/in/anthony-zavala-874a521b/)
 ## Instructions
 
 1. Clone locally using  
-    `git clone git@github.com:imperfectproduce/product-card-exercise.git`  
+    `git clone git@github.com:zavalaan/product-card-exercise.git`  
     or  
-    `git clone https://github.com/imperfectproduce/product-card-exercise.git`
+    `git clone https://github.com/zavalaan/product-card-exercise.git`
 2. Install dependencies using `npm install` or ` npm i`
 3. Run tests using `npm test`
 4. Start the express server using `node src/api/server.js`
