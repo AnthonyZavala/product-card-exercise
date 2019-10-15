@@ -8,7 +8,7 @@ off the webpack dev server running the react app:
 ```sh
 # Run on a later version of node
 # Runs on PORT 9001 by default, but can set the PORT env variable to run on a different port
-$ node api/server.js
+$ node src/api/server.js
 ```
 
 Then, move on to running the client below...
